@@ -6,4 +6,4 @@ Programa cosas raras con arduinos.
 Hoy hablaremos de su vida y obra muestra.
 
 
-esto es para cambiar un comit por otro parte 3
+esto es para cambiar un comit por otro 
